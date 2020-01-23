@@ -7,12 +7,16 @@ Start to learn how to use Git
 ### Git command
 `git clone <repository url>` - Clone an existing git repository  
 `git remote -v` - Check remote repository URL  
-
 `git pull` - Get latest changes from server  
 `git push` - Push local changes to server  
 `git status` - Check current status in local repository  
 `git commit -m "commit comment text" .` - Commit all local changes with comments to local repository  
 `git add .` - Add all changes to git  
-`git checkout <branch_name>` - Switch to branch <branch_name>  
 `git log` - Shows last commits and messages  
 `git checkout -- <file_name>` - undo the change to <file_name>  
+
+### Branch related commands
+`git branch` - list all branches  
+`git checkout <branch_name>` - Switch to branch <branch_name>  
+`git branch <branch_name>` - Create a new branch  
+`git branch -d <branch_name>` - Delete a branch  
