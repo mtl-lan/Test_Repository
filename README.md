@@ -15,4 +15,4 @@ Start to learn how to use Git
 `git add .` - Add all changes to git
 `git checkout <branch_name>` - Switch to branch <branch_name>  
 `git log` - Shows last commits and messages  
-
+`git checkout -- <filename>` - undo the change to <filename>
