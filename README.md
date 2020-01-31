@@ -12,13 +12,13 @@ Start to learn how to use Git
 `git push` - Push local changes to server  
 `git status` - Check current status in local repository  
 `git commit -m "commit comment text" .` - Commit all local changes with comments to local repository  
-`git add .` - Add all changes to git
-`git log` - Shows last commits and messages 
+`git add .` - Add all changes to git  
+`git log` - Shows last commits and messages     
 `git checkout -- <file_name>` - undo the change to <file_name>
 
  ### Branch related commands 
 
-`git branch` - List all branches 
-`git checkout <branch_name>` - Switch to branch <branch_name>  
-`git branch <branch_name>` - Create a new branch 
-`git branch -d <branch_name>` Delete a branch
+`git branch` - List all branches   
+`git checkout <branch_name>` - Switch to branch <branch_name>    
+`git branch <branch_name>` - Create a new branch   
+`git branch -d <branch_name>` Delete a branch  
