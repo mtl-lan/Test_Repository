@@ -1,0 +1,7 @@
+hello, lan
+let us do another test for checkout command
+now, there are many words below
+nihao in chinese
+hello in english
+bonjour in french
+
